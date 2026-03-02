@@ -18,3 +18,5 @@ pve2.jkxprod.lab.	IN	A	192.168.172.50
 shost1.jkxprod.lab.	IN	A	192.168.172.251
 hp.jkxprod.lab.		IN	A	192.168.172.250
 adguard.jkxprod.lab. IN  A   192.168.80.254
+nas.jkxprod.lab.	IN	A 	192.168.20.200
+
