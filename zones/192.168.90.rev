@@ -12,3 +12,8 @@ $TTL 604800
 
 254   IN PTR bind9.jkxprod.lab.
 50    IN PTR pve3.jkxprod.lab.
+51    IN PTR pve1.jkxprod.lab.
+20    IN PTR nas.jkxprod.lab.
+250    IN PTR hp.jkxprod.lab.
+254    IN PTR adguard.jkxprod.lab.
+
