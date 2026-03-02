@@ -1,0 +1,14 @@
+$TTL 604800
+@   IN  SOA bind9.jkxprod.lab. root.jkxprod.lab. (
+        2026022701
+        604800
+        86400
+        2419200
+        604800 )
+
+    IN  NS  bind9.jkxprod.lab.
+
+; PTR records for 192.168.90.0/24
+
+254   IN PTR bind9.jkxprod.lab.
+50    IN PTR pve3.jkxprod.lab.
