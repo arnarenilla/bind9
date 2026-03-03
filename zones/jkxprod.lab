@@ -1,6 +1,6 @@
 $TTL 604801
 @	IN	SOA	bind9.jkxprod.lab. root.jkxprod.lab. (
-			2026021400
+			2026022400
 			604800
 			86400
 			2419200
@@ -9,7 +9,7 @@ $TTL 604801
 ; Name servers
 @       IN      NS      bind9.jkxprod.lab.
 
-s; A record for the DNS server itself
+; A record for the DNS server itself
 bind9.jkxprod.lab.    IN      A       192.168.90.254
 
 ; A records for hosts
