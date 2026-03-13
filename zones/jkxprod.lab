@@ -23,3 +23,9 @@ pc-1    IN  A       192.168.173.254
 container-host1 IN  A       192.168.172.246
 host3   IN  A       192.168.172.252
 host4   IN  A       192.168.172.247
+cp-node IN  A       192.168.172.201
+node1   IN  A       192.168.172.202
+node2   IN  A       192.168.172.203
+node3   IN  A       192.168.172.204
+
+
