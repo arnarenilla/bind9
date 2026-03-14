@@ -29,4 +29,6 @@ c1-node2   IN  A       192.168.172.202
 c1-node3   IN  A       192.168.172.203
 c1-cp      IN  A    192.168.172.204
 ks8-master IN  A       192.168.172.100
+ks8-worker1   IN  A      192.168.172.101
+ks8-worker2   IN  A      192.168.172.102
 
