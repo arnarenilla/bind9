@@ -32,3 +32,6 @@ ks8-master IN  A       192.168.172.210
 ks8-worker1  IN  A       192.168.172.211
 ks8-worker2  IN  A       192.168.172.212
 ks8-worker3  IN  A       192.168.172.213
+ks8-master1  IN  A       192.168.172.130
+ks8-node1    IN  A       192.168.172.131
+ks8-node2    IN  A       192.168.172.132
